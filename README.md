@@ -9,6 +9,7 @@ This project integrates language learning with blockchain technology to create a
 ## Contract Address
 > **Contract Address**:
 0x0750716d5B4Bb1e5FEDa3444378f85cD08E3c8AD
+![image](https://github.com/user-attachments/assets/2f803b31-5066-4396-9e5b-d7f7a2589b64)
 
 ## Project Vision
 The vision of this project is to make language learning more accessible, fun, and rewarding by combining education with gamification and blockchain incentives. Learners are motivated to improve their skills while earning tangible rewards, creating a win-win ecosystem for both education and technology enthusiasts.
